@@ -78,4 +78,5 @@ Categorical diambil dari Q1,Q2 & Q3 dalam menentukan range
 
 disusun oleh :
 1. Amarindra Ardinova
+2. Anisa Millah Taqiyyah
 
